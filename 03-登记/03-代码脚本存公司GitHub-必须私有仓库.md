@@ -20,6 +20,10 @@
 
 ## 上手三步
 
+![代码资产规矩与四步：公司邮箱注册 → 报给 Rosetta/Yomi 拉进组织 → 建 Private 仓库 → 地址登记进台账](../slides-png/3-登记-4.png)
+
 1. 用**公司邮箱**注册 GitHub 账号；
 2. 把账号名报给 Rosetta 或 Yomi，拉进 ddd-agent-assets 组织；
 3. 在组织下建 **Private** 仓库，把脚本和说明传上去，仓库地址登记到台账。
+
+![公司 GitHub 组织 ddd-agent-assets 下的 bot-OA-SOP 私有仓库页面](../Pasted%20image%2020260826204033.png)
