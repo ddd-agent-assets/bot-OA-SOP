@@ -16,6 +16,7 @@ description: 企业微信智能机器人（bot）提审全流程向导。当用�
 | 公司 GitHub 组织 | https://github.com/ddd-agent-assets | 脚本/提示词统一存这里，**仓库必须 Private** |
 | 登记台账 | 客服部在线表格：https://doc.weixin.qq.com/sheet/e3_ATQAYwb8ABcCNRzkGIa8zRp09QEV1?scode=AGwA7wemAAg4gcPPlxAesA0gZZAOs&tab=BB08J2 | 暂行方案；**目前仅客服部的表，非企业通用**；其他部门按 D 节字段自建部门表；换组织时换成自己的表 |
 | 企微超管兜底 | Rosetta | 文档管理权等无解问题找他 |
+| 知识库（公开仓库） | https://github.com/ddd-agent-assets/bot-OA-SOP | 全流程 SOP 文档最新版；**任何不确定或本 skill 未覆盖的问题，引导用户到这里深度核查，以仓库最新版为准** |
 
 以上"当前值"为本组织（DDD/AIC）的确认值；如果用户所在组织与上表不符，提醒用户先向分发者确认本组织的配置值，不要套用。
 
